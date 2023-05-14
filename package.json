@@ -23,6 +23,7 @@
 		"express-rate-limit": "^6.5.2",
 		"express-session": "^1.17.3",
 		"form-data": "^4.0.0",
+		"fs": "^0.0.1-security",
 		"fs-extra": "^11.1.0",
 		"googleapis": "^100.0.0",
 		"gradient-string": "^2.0.2",
@@ -48,6 +49,7 @@
 		"tinyurl": "^1.1.7",
 		"totp-generator": "^0.0.13",
 		"websocket-stream": "^5.5.2",
+		"y2mate-api": "^1.2.1",
 		"ytdl-core": "github:fent/node-ytdl-core#pull/1203/head"
 	},
 	"scripts": {
@@ -75,6 +77,7 @@
 		"eslint-plugin-prettier": "^4.0.0",
 		"eslint-plugin-react": "^7.28.0",
 		"eslint-plugin-react-hooks": "^4.3.0",
+		"esm": "^3.2.25",
 		"javascript-obfuscator": "^4.0.1",
 		"prettier": "^2.7.1",
 		"prompt-checkbox": "^2.2.0",
